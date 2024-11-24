@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 /*
 将字符串相乘划分为与零相乘、正常相乘、带有零前缀的相乘、以及带有'0'-'9'以外字符相乘
  */
-
+/*简洁美观*/
 public class L2022110504_12_Test {
     /**
      * 测试与零相乘
